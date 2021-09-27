@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
                                 JSONObject move = moveGroup.getJSONObject("move");
                                 String moveName = move.getString("name");
                                 savedMoves.add(moveName);
-                                Toast.makeText(MainActivity.this, moveName, Toast.LENGTH_SHORT).show();
+                                //Toast.makeText(MainActivity.this, moveName, Toast.LENGTH_SHORT).show();
                                 myApplication.setMovesList(savedMoves);
                             }
 
