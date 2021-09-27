@@ -7,4 +7,4 @@ Search basic information about the pokemon and see all the moves they can perfor
 
 ## Screenshots
 
-<img src="https://i.imgur.com/3ir58Se.png" alt="Landing screen" width="320"> | <img src="https://i.imgur.com/Gnfpjoz.png" alt="Basic information of searched pokemon" width="320"> | <img src="https://i.imgur.com/TJqhoHH.png" alt="Moves used by the searched pokemon" width="320">
+<img src="https://i.imgur.com/3ir58Se.png" alt="Landing screen" width="25%"> | <img src="https://i.imgur.com/Gnfpjoz.png" alt="Basic information of searched pokemon" width="25%"> | <img src="https://i.imgur.com/TJqhoHH.png" alt="Moves used by the searched pokemon" width="25%">
